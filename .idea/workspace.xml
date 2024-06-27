@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a859947f-abbc-4989-b051-6e6e78eab8b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/.idea/18_飞机大战.iml" beforeDir="false" afterPath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/.idea/18_飞机大战.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/bullet.py" beforeDir="false" afterPath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/bullet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/enemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/record.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/飞机大战.py" beforeDir="false" afterPath="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/plane_wars.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://D:/goland/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.3.windows-amd64" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2iCNvlk1cCT9CakAFN6atoRPjls" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Go 构建.go build main.go.executor&quot;: &quot;Run&quot;,
+    &quot;Python.run_game_with_logging.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/niu&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.run_game_with_logging">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="课设" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_game_with_logging" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="课设" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (文字转向量)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare/run_game_with_logging.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run_game_with_logging" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_game_with_logging" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <created>1719529945545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719529945545</updated>
+      <workItem from="1719529947487" duration="103000" />
+      <workItem from="1719530059468" duration="725000" />
+      <workItem from="1719530872244" duration="142000" />
+      <workItem from="1719531031349" duration="341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$run_game_with_logging.coverage" NAME="run_game_with_logging 覆盖结果" MODIFIED="1719530094118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The-Python-code-implements-aircraft-warfare" />
+  </component>
+</project>
